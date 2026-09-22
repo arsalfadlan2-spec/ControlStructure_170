@@ -11,3 +11,4 @@ elif nilai >= 60:
 else:
     print("Below average performance")
     ## finish
+    # membuat program untuk menentukan kinerja berdasarkan nilai persentase yang dimasukkan oleh pengguna. Program ini menggunakan struktur percabangan if-elif-else untuk mengevaluasi nilai dan memberikan output yang sesuai.
